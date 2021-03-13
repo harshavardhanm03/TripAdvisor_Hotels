@@ -37,4 +37,3 @@ Spark runs batch jobs for every one year and stores the data back into s3.
 
 Word2Vec and LDA models were developed to analzye the reviews and to recommends better hotels.
 
-# This is a new line
